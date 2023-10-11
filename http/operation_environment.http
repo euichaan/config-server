@@ -1,0 +1,5 @@
+### profile - local
+POST http://localhost:8080/local
+
+### profile - dev
+POST http://localhost:8080/dev
