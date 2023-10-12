@@ -1,5 +1,11 @@
+### Eureka에 연결된 모든 서버의 url 확인(Spring Cloud Config 서버를 제외한)
+GET http://localhost:8080/local
+
 ### profile - local
 POST http://localhost:8080/local
 
 ### profile - dev
 POST http://localhost:8080/dev
+
+### all
+POST http://localhost:8080/all

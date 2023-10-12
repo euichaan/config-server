@@ -11,6 +11,7 @@ spring:
         awsparamstore:
           enabled: true
           region: ap-northeast-2
+          profile-separator: _
   application:
     name: config-server
 
