@@ -1,4 +1,4 @@
-package com.jydev.configserver;
+package com.jydev;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

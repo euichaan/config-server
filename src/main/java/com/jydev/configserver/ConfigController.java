@@ -63,7 +63,6 @@ public class ConfigController {
                 .getOrDefault(META_DATA_PROFILE_KEY, META_DATA_DEFAULT_KEY);
 
         return Arrays.stream(StringUtil.removeAllWhiteSpace(profilesString)
-                        .split(","))
-                .toList();
+                        .split(",")).toList();
     }
 }
