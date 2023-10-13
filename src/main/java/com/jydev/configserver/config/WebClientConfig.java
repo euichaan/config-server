@@ -1,5 +1,6 @@
-package com.jydev.configserver;
+package com.jydev.configserver.config;
 
+import com.jydev.configserver.actuator.ActuatorLogger;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.reactive.function.client.WebClient;

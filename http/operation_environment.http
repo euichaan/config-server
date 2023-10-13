@@ -7,5 +7,8 @@ POST http://localhost:8080/local
 ### profile - dev
 POST http://localhost:8080/dev
 
+###
+GET http://localhost:8080/log
+
 ### all
 POST http://localhost:8080/all

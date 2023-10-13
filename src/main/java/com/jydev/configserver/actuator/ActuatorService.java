@@ -1,4 +1,4 @@
-package com.jydev.configserver;
+package com.jydev.configserver.actuator;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

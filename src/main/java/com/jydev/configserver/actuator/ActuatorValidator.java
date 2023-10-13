@@ -1,4 +1,4 @@
-package com.jydev.configserver;
+package com.jydev.configserver.actuator;
 
 import com.jydev.configserver.util.StringUtil;
 import org.springframework.beans.factory.annotation.Value;

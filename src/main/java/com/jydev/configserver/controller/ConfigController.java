@@ -1,5 +1,7 @@
-package com.jydev.configserver;
+package com.jydev.configserver.controller;
 
+import com.jydev.configserver.actuator.ActuatorService;
+import com.jydev.configserver.actuator.ActuatorValidator;
 import lombok.RequiredArgsConstructor;
 import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;
